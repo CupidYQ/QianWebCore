@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Qian.Models\Qian.Models.csproj" />
+    <ProjectReference Include="..\Qian.Shop.Core\Qian.Shop.Core.csproj" />
+  </ItemGroup>
+
+</Project>

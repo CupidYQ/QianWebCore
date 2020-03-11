@@ -1,0 +1,16 @@
+E:\Qian.Shop\Qian.Models\bin\Debug\netcoreapp3.1\Qian.Models.deps.json
+E:\Qian.Shop\Qian.Models\bin\Debug\netcoreapp3.1\Qian.Models.dll
+E:\Qian.Shop\Qian.Models\bin\Debug\netcoreapp3.1\Qian.Models.pdb
+E:\Qian.Shop\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.AssemblyInfoInputs.cache
+E:\Qian.Shop\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.AssemblyInfo.cs
+E:\Qian.Shop\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.dll
+E:\Qian.Shop\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.pdb
+E:\Qian.Shop\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.csprojAssemblyReference.cache
+F:\Qian.Shop\Qian.Models\bin\Debug\netcoreapp3.1\Qian.Models.deps.json
+F:\Qian.Shop\Qian.Models\bin\Debug\netcoreapp3.1\Qian.Models.dll
+F:\Qian.Shop\Qian.Models\bin\Debug\netcoreapp3.1\Qian.Models.pdb
+F:\Qian.Shop\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.AssemblyInfoInputs.cache
+F:\Qian.Shop\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.AssemblyInfo.cs
+F:\Qian.Shop\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.dll
+F:\Qian.Shop\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.pdb
+F:\Qian.Shop\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.csprojAssemblyReference.cache
