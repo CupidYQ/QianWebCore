@@ -21,14 +21,8 @@ namespace Qian.Shop.Api.Controllers
         [HttpGet("GetBooks")]
         public async Task<IActionResult> GetBooks(int pageIndex, int pageSize, string bookName, string authorName,string bookType,int orderBy,bool isAsc)
         {            
-            var model = await _ibooksService.GetBooks(pageIndex, pageSize,bookName, authorName, bookType,orderBy,isAsc);
-            var res = new
-            {
-                code = 0,
-                data = model,
-                total = model.Count()
-            };
-            return Ok(res);
+            var model = await _ibooksService.GetBooks(pageIndex, pageSize,bookName, authorName, bookType,orderBy,isAsc);            
+            return Ok(Common.ApiResult.Successed(model,model.Count()));
         }
 
         [HttpGet("GetBookById")]
