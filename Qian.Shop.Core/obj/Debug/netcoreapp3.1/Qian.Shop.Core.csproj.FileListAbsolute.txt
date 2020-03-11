@@ -17,3 +17,12 @@ F:\Qian.Shop\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.AssemblyInfoI
 F:\Qian.Shop\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.AssemblyInfo.cs
 F:\Qian.Shop\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.dll
 F:\Qian.Shop\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.pdb
+F:\QianWebCore\Qian.Shop.Core\bin\Debug\netcoreapp3.1\Qian.Shop.Core.deps.json
+F:\QianWebCore\Qian.Shop.Core\bin\Debug\netcoreapp3.1\Qian.Shop.Core.runtimeconfig.json
+F:\QianWebCore\Qian.Shop.Core\bin\Debug\netcoreapp3.1\Qian.Shop.Core.runtimeconfig.dev.json
+F:\QianWebCore\Qian.Shop.Core\bin\Debug\netcoreapp3.1\Qian.Shop.Core.dll
+F:\QianWebCore\Qian.Shop.Core\bin\Debug\netcoreapp3.1\Qian.Shop.Core.pdb
+F:\QianWebCore\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.AssemblyInfoInputs.cache
+F:\QianWebCore\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.AssemblyInfo.cs
+F:\QianWebCore\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.dll
+F:\QianWebCore\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.pdb

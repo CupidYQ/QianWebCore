@@ -8338,11 +8338,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Qian.Shop\\BLL\\BLL.csproj",
+      "projectUniqueName": "F:\\QianWebCore\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "F:\\Qian.Shop\\BLL\\BLL.csproj",
+      "projectPath": "F:\\QianWebCore\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\Qian.Shop\\BLL\\obj\\",
+      "outputPath": "F:\\QianWebCore\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8358,17 +8358,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Qian.Shop\\Common\\Common.csproj": {
-              "projectPath": "F:\\Qian.Shop\\Common\\Common.csproj"
+            "F:\\QianWebCore\\Common\\Common.csproj": {
+              "projectPath": "F:\\QianWebCore\\Common\\Common.csproj"
             },
-            "F:\\Qian.Shop\\DAL\\DAL.csproj": {
-              "projectPath": "F:\\Qian.Shop\\DAL\\DAL.csproj"
+            "F:\\QianWebCore\\DAL\\DAL.csproj": {
+              "projectPath": "F:\\QianWebCore\\DAL\\DAL.csproj"
             },
-            "F:\\Qian.Shop\\IBLL\\IBLL.csproj": {
-              "projectPath": "F:\\Qian.Shop\\IBLL\\IBLL.csproj"
+            "F:\\QianWebCore\\IBLL\\IBLL.csproj": {
+              "projectPath": "F:\\QianWebCore\\IBLL\\IBLL.csproj"
             },
-            "F:\\Qian.Shop\\IDAL\\IDAL.csproj": {
-              "projectPath": "F:\\Qian.Shop\\IDAL\\IDAL.csproj"
+            "F:\\QianWebCore\\IDAL\\IDAL.csproj": {
+              "projectPath": "F:\\QianWebCore\\IDAL\\IDAL.csproj"
             }
           }
         }

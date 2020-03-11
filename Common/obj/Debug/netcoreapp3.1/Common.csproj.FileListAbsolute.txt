@@ -17,3 +17,14 @@ F:\Qian.Shop\Common\bin\Debug\netcoreapp3.1\Qian.Models.dll
 F:\Qian.Shop\Common\bin\Debug\netcoreapp3.1\Qian.Models.pdb
 F:\Qian.Shop\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
 F:\Qian.Shop\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
+F:\QianWebCore\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+F:\QianWebCore\Common\bin\Debug\netcoreapp3.1\Common.dll
+F:\QianWebCore\Common\bin\Debug\netcoreapp3.1\Common.pdb
+F:\QianWebCore\Common\bin\Debug\netcoreapp3.1\Qian.Models.dll
+F:\QianWebCore\Common\bin\Debug\netcoreapp3.1\Qian.Models.pdb
+F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
+F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.dll
+F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.pdb

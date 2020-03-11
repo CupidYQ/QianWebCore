@@ -24,3 +24,16 @@ F:\Qian.Shop\IDAL\obj\Debug\netcoreapp3.1\IDAL.AssemblyInfo.cs
 F:\Qian.Shop\IDAL\obj\Debug\netcoreapp3.1\IDAL.csproj.CopyComplete
 F:\Qian.Shop\IDAL\obj\Debug\netcoreapp3.1\IDAL.dll
 F:\Qian.Shop\IDAL\obj\Debug\netcoreapp3.1\IDAL.pdb
+F:\QianWebCore\IDAL\obj\Debug\netcoreapp3.1\IDAL.csprojAssemblyReference.cache
+F:\QianWebCore\IDAL\obj\Debug\netcoreapp3.1\IDAL.AssemblyInfoInputs.cache
+F:\QianWebCore\IDAL\obj\Debug\netcoreapp3.1\IDAL.AssemblyInfo.cs
+F:\QianWebCore\IDAL\obj\Debug\netcoreapp3.1\IDAL.dll
+F:\QianWebCore\IDAL\obj\Debug\netcoreapp3.1\IDAL.pdb
+F:\QianWebCore\IDAL\bin\Debug\netcoreapp3.1\IDAL.deps.json
+F:\QianWebCore\IDAL\bin\Debug\netcoreapp3.1\IDAL.dll
+F:\QianWebCore\IDAL\bin\Debug\netcoreapp3.1\IDAL.pdb
+F:\QianWebCore\IDAL\bin\Debug\netcoreapp3.1\Qian.Models.dll
+F:\QianWebCore\IDAL\bin\Debug\netcoreapp3.1\Qian.Shop.Core.dll
+F:\QianWebCore\IDAL\bin\Debug\netcoreapp3.1\Qian.Models.pdb
+F:\QianWebCore\IDAL\bin\Debug\netcoreapp3.1\Qian.Shop.Core.pdb
+F:\QianWebCore\IDAL\obj\Debug\netcoreapp3.1\IDAL.csproj.CopyComplete

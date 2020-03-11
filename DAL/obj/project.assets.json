@@ -8298,11 +8298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Qian.Shop\\DAL\\DAL.csproj",
+      "projectUniqueName": "F:\\QianWebCore\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "F:\\Qian.Shop\\DAL\\DAL.csproj",
+      "projectPath": "F:\\QianWebCore\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\Qian.Shop\\DAL\\obj\\",
+      "outputPath": "F:\\QianWebCore\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8318,17 +8318,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Qian.Shop\\Common\\Common.csproj": {
-              "projectPath": "F:\\Qian.Shop\\Common\\Common.csproj"
+            "F:\\QianWebCore\\Common\\Common.csproj": {
+              "projectPath": "F:\\QianWebCore\\Common\\Common.csproj"
             },
-            "F:\\Qian.Shop\\DBHelper\\DBHelper.csproj": {
-              "projectPath": "F:\\Qian.Shop\\DBHelper\\DBHelper.csproj"
+            "F:\\QianWebCore\\DBHelper\\DBHelper.csproj": {
+              "projectPath": "F:\\QianWebCore\\DBHelper\\DBHelper.csproj"
             },
-            "F:\\Qian.Shop\\IDAL\\IDAL.csproj": {
-              "projectPath": "F:\\Qian.Shop\\IDAL\\IDAL.csproj"
+            "F:\\QianWebCore\\IDAL\\IDAL.csproj": {
+              "projectPath": "F:\\QianWebCore\\IDAL\\IDAL.csproj"
             },
-            "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
-              "projectPath": "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj"
+            "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
+              "projectPath": "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj"
             }
           }
         }

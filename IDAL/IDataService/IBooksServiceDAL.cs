@@ -7,7 +7,7 @@ namespace IDAL.IDataService
 {
     public interface IBooksServiceDAL
     {
-        Task<IEnumerable<Qian.Shop.Core.Models.Books>> GetBooks(int pageIndex, int pageSize, string bookName, string authorName, string bookType, int orderBy, bool     );
+        Task<IEnumerable<Qian.Shop.Core.Models.Books>> GetBooks(int pageIndex, int pageSize, string bookName, string authorName, string bookType, int orderBy, bool isAsc);
 
         Task<Qian.Shop.Core.Models.Books> GetBookById(int bookId);
     }

@@ -24,3 +24,16 @@ F:\Qian.Shop\IBLL\obj\Debug\netcoreapp3.1\IBLL.AssemblyInfo.cs
 F:\Qian.Shop\IBLL\obj\Debug\netcoreapp3.1\IBLL.csproj.CopyComplete
 F:\Qian.Shop\IBLL\obj\Debug\netcoreapp3.1\IBLL.dll
 F:\Qian.Shop\IBLL\obj\Debug\netcoreapp3.1\IBLL.pdb
+F:\QianWebCore\IBLL\bin\Debug\netcoreapp3.1\IBLL.deps.json
+F:\QianWebCore\IBLL\bin\Debug\netcoreapp3.1\IBLL.dll
+F:\QianWebCore\IBLL\bin\Debug\netcoreapp3.1\IBLL.pdb
+F:\QianWebCore\IBLL\bin\Debug\netcoreapp3.1\Qian.Models.dll
+F:\QianWebCore\IBLL\bin\Debug\netcoreapp3.1\Qian.Shop.Core.dll
+F:\QianWebCore\IBLL\bin\Debug\netcoreapp3.1\Qian.Models.pdb
+F:\QianWebCore\IBLL\bin\Debug\netcoreapp3.1\Qian.Shop.Core.pdb
+F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.csprojAssemblyReference.cache
+F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.AssemblyInfoInputs.cache
+F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.AssemblyInfo.cs
+F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.csproj.CopyComplete
+F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.dll
+F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.pdb

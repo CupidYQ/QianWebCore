@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Qian.Shop\\DAL\\DAL.csproj": {}
+    "F:\\QianWebCore\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "F:\\Qian.Shop\\Common\\Common.csproj": {
+    "F:\\QianWebCore\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Qian.Shop\\Common\\Common.csproj",
+        "projectUniqueName": "F:\\QianWebCore\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "F:\\Qian.Shop\\Common\\Common.csproj",
+        "projectPath": "F:\\QianWebCore\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Qian.Shop\\Common\\obj\\",
+        "outputPath": "F:\\QianWebCore\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Qian.Shop\\Qian.Models\\Qian.Models.csproj": {
-                "projectPath": "F:\\Qian.Shop\\Qian.Models\\Qian.Models.csproj"
+              "F:\\QianWebCore\\Qian.Models\\Qian.Models.csproj": {
+                "projectPath": "F:\\QianWebCore\\Qian.Models\\Qian.Models.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "F:\\Qian.Shop\\DAL\\DAL.csproj": {
+    "F:\\QianWebCore\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Qian.Shop\\DAL\\DAL.csproj",
+        "projectUniqueName": "F:\\QianWebCore\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "F:\\Qian.Shop\\DAL\\DAL.csproj",
+        "projectPath": "F:\\QianWebCore\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Qian.Shop\\DAL\\obj\\",
+        "outputPath": "F:\\QianWebCore\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,17 +89,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Qian.Shop\\Common\\Common.csproj": {
-                "projectPath": "F:\\Qian.Shop\\Common\\Common.csproj"
+              "F:\\QianWebCore\\Common\\Common.csproj": {
+                "projectPath": "F:\\QianWebCore\\Common\\Common.csproj"
               },
-              "F:\\Qian.Shop\\DBHelper\\DBHelper.csproj": {
-                "projectPath": "F:\\Qian.Shop\\DBHelper\\DBHelper.csproj"
+              "F:\\QianWebCore\\DBHelper\\DBHelper.csproj": {
+                "projectPath": "F:\\QianWebCore\\DBHelper\\DBHelper.csproj"
               },
-              "F:\\Qian.Shop\\IDAL\\IDAL.csproj": {
-                "projectPath": "F:\\Qian.Shop\\IDAL\\IDAL.csproj"
+              "F:\\QianWebCore\\IDAL\\IDAL.csproj": {
+                "projectPath": "F:\\QianWebCore\\IDAL\\IDAL.csproj"
               },
-              "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
-                "projectPath": "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj"
+              "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
+                "projectPath": "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj"
               }
             }
           }
@@ -131,14 +131,14 @@
         }
       }
     },
-    "F:\\Qian.Shop\\DBHelper\\DBHelper.csproj": {
+    "F:\\QianWebCore\\DBHelper\\DBHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Qian.Shop\\DBHelper\\DBHelper.csproj",
+        "projectUniqueName": "F:\\QianWebCore\\DBHelper\\DBHelper.csproj",
         "projectName": "DBHelper",
-        "projectPath": "F:\\Qian.Shop\\DBHelper\\DBHelper.csproj",
+        "projectPath": "F:\\QianWebCore\\DBHelper\\DBHelper.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Qian.Shop\\DBHelper\\obj\\",
+        "outputPath": "F:\\QianWebCore\\DBHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,8 +154,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
-                "projectPath": "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj"
+              "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
+                "projectPath": "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj"
               }
             }
           }
@@ -197,14 +197,14 @@
         }
       }
     },
-    "F:\\Qian.Shop\\IDAL\\IDAL.csproj": {
+    "F:\\QianWebCore\\IDAL\\IDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Qian.Shop\\IDAL\\IDAL.csproj",
+        "projectUniqueName": "F:\\QianWebCore\\IDAL\\IDAL.csproj",
         "projectName": "IDAL",
-        "projectPath": "F:\\Qian.Shop\\IDAL\\IDAL.csproj",
+        "projectPath": "F:\\QianWebCore\\IDAL\\IDAL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Qian.Shop\\IDAL\\obj\\",
+        "outputPath": "F:\\QianWebCore\\IDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -220,11 +220,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Qian.Shop\\Qian.Models\\Qian.Models.csproj": {
-                "projectPath": "F:\\Qian.Shop\\Qian.Models\\Qian.Models.csproj"
+              "F:\\QianWebCore\\Qian.Models\\Qian.Models.csproj": {
+                "projectPath": "F:\\QianWebCore\\Qian.Models\\Qian.Models.csproj"
               },
-              "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
-                "projectPath": "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj"
+              "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
+                "projectPath": "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj"
               }
             }
           }
@@ -256,14 +256,14 @@
         }
       }
     },
-    "F:\\Qian.Shop\\Qian.Models\\Qian.Models.csproj": {
+    "F:\\QianWebCore\\Qian.Models\\Qian.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Qian.Shop\\Qian.Models\\Qian.Models.csproj",
+        "projectUniqueName": "F:\\QianWebCore\\Qian.Models\\Qian.Models.csproj",
         "projectName": "Qian.Models",
-        "projectPath": "F:\\Qian.Shop\\Qian.Models\\Qian.Models.csproj",
+        "projectPath": "F:\\QianWebCore\\Qian.Models\\Qian.Models.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Qian.Shop\\Qian.Models\\obj\\",
+        "outputPath": "F:\\QianWebCore\\Qian.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -308,14 +308,14 @@
         }
       }
     },
-    "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
+    "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj",
+        "projectUniqueName": "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj",
         "projectName": "Qian.Shop.Core",
-        "projectPath": "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj",
+        "projectPath": "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Qian.Shop\\Qian.Shop.Core\\obj\\",
+        "outputPath": "F:\\QianWebCore\\Qian.Shop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

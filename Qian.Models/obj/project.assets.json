@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Qian.Shop\\Qian.Models\\Qian.Models.csproj",
+      "projectUniqueName": "F:\\QianWebCore\\Qian.Models\\Qian.Models.csproj",
       "projectName": "Qian.Models",
-      "projectPath": "F:\\Qian.Shop\\Qian.Models\\Qian.Models.csproj",
+      "projectPath": "F:\\QianWebCore\\Qian.Models\\Qian.Models.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\Qian.Shop\\Qian.Models\\obj\\",
+      "outputPath": "F:\\QianWebCore\\Qian.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

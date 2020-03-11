@@ -8223,11 +8223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Qian.Shop\\DBHelper\\DBHelper.csproj",
+      "projectUniqueName": "F:\\QianWebCore\\DBHelper\\DBHelper.csproj",
       "projectName": "DBHelper",
-      "projectPath": "F:\\Qian.Shop\\DBHelper\\DBHelper.csproj",
+      "projectPath": "F:\\QianWebCore\\DBHelper\\DBHelper.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\Qian.Shop\\DBHelper\\obj\\",
+      "outputPath": "F:\\QianWebCore\\DBHelper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8243,8 +8243,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
-              "projectPath": "F:\\Qian.Shop\\Qian.Shop.Core\\Qian.Shop.Core.csproj"
+            "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj": {
+              "projectPath": "F:\\QianWebCore\\Qian.Shop.Core\\Qian.Shop.Core.csproj"
             }
           }
         }

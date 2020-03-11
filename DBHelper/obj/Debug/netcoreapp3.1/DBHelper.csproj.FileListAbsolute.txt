@@ -20,3 +20,14 @@ F:\Qian.Shop\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.AssemblyInfo.cs
 F:\Qian.Shop\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.csproj.CopyComplete
 F:\Qian.Shop\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.dll
 F:\Qian.Shop\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.pdb
+F:\QianWebCore\DBHelper\bin\Debug\netcoreapp3.1\DBHelper.deps.json
+F:\QianWebCore\DBHelper\bin\Debug\netcoreapp3.1\DBHelper.dll
+F:\QianWebCore\DBHelper\bin\Debug\netcoreapp3.1\DBHelper.pdb
+F:\QianWebCore\DBHelper\bin\Debug\netcoreapp3.1\Qian.Shop.Core.dll
+F:\QianWebCore\DBHelper\bin\Debug\netcoreapp3.1\Qian.Shop.Core.pdb
+F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.csprojAssemblyReference.cache
+F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.AssemblyInfoInputs.cache
+F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.AssemblyInfo.cs
+F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.csproj.CopyComplete
+F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.dll
+F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.pdb
