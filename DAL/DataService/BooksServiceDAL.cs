@@ -8,7 +8,7 @@ using Common;
 
 namespace DAL.DataService
 {
-    public class BooksServiceDAL : DALService<Books>, IBooksServiceDAL
+    public class BooksServiceDAL : DALService<Books>, IBooksService
     {
         public BooksServiceDAL(QianContext context) : base(context)
         {
@@ -57,7 +57,7 @@ namespace DAL.DataService
                     default:
                         break;
                 }
-                var model = LoadEntites(predicate).ExpressionOrderBy(orderModelField.ToArray()).Skip((pageIndex - 1)*pageSize).Take(pageSize);
+                var model = LoadEntites(predicate).ExpressionOrderBy(orderModelField.ToArray()).Skip((pageIndex - 1)*pageSize).Take(pageSize);                
                 return model.AsEnumerable();
             });
         }

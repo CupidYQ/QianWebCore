@@ -413,8 +413,13 @@ F:\QianWebCore\Qian.Shop.Api\bin\Debug\netcoreapp3.1\IDAL.pdb
 F:\QianWebCore\Qian.Shop.Api\bin\Debug\netcoreapp3.1\Qian.Models.pdb
 F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\staticwebassets\Qian.Shop.Api.StaticWebAssets.Manifest.cache
 F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\staticwebassets\Qian.Shop.Api.StaticWebAssets.xml
-F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.MvcApplicationPartsAssemblyInfo.cache
 F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.AssemblyInfoInputs.cache
 F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.AssemblyInfo.cs
 F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.RazorTargetAssemblyInfo.cache
 F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.csproj.CopyComplete
+F:\QianWebCore\Qian.Shop.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\QianWebCore\Qian.Shop.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\QianWebCore\Qian.Shop.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\QianWebCore\Qian.Shop.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.MvcApplicationPartsAssemblyInfo.cache

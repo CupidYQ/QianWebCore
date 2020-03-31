@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace IDAL.IDataService
 {
-    public interface IBooksServiceDAL
+    public interface IBooksService
     {
         Task<IEnumerable<Qian.Shop.Core.Models.Books>> GetBooks(int pageIndex, int pageSize, string bookName, string authorName, string bookType, int orderBy, bool isAsc);
 

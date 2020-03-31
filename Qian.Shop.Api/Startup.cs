@@ -26,6 +26,18 @@ namespace Qian.Shop.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            #region 注册 Swagger
+            services.AddSwaggerGen(p =>
+            {
+                p.SwaggerDoc("V1", new Microsoft.OpenApi.Models.OpenApiInfo()
+                {
+                    Title = "接口测试",
+                    Version = "version-01",
+                    Description = "QianShopApi测试"
+                });
+            });
+            #endregion
+
             services.AddControllers();
             services.AddDbContext<Core.QianContext>(options =>
             {
@@ -49,6 +61,13 @@ namespace Qian.Shop.Api
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            #region 使用Swagger中间件
+            app.UseSwagger();
+            app.UseSwaggerUI(p => {
+                p.SwaggerEndpoint("/swagger/V1/swagger.json", "测试");
+            });
+            #endregion
 
             app.UseHttpsRedirection();
 

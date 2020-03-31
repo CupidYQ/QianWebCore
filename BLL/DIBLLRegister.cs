@@ -16,8 +16,8 @@ namespace BLL
             //services.AddTransient(typeof(IDALService<>), typeof(DALService<>));
 
             //配置一个依赖注入映射关系 
-            services.AddScoped<IBooksService, BooksServiceBLL>();
-            services.AddScoped<IBooksServiceDAL, BooksServiceDAL>();
+            services.AddScoped<IBLL.IBooksService, BooksServiceBLL>();
+            services.AddScoped<IDAL.IDataService.IBooksService, BooksServiceDAL>();
         }
     }
 }

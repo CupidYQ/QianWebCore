@@ -10,8 +10,8 @@ namespace BLL.Logic
 {
     public class BooksServiceBLL : IBooksService
     {
-        private IDAL.IDataService.IBooksServiceDAL _dalService;
-        public BooksServiceBLL(IDAL.IDataService.IBooksServiceDAL dalService)
+        private IDAL.IDataService.IBooksService _dalService;
+        public BooksServiceBLL(IDAL.IDataService.IBooksService dalService)
         {
             this._dalService = dalService;
         }
