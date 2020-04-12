@@ -22,3 +22,4 @@ F:\QianWebCore\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.AssemblyInfo.cs
 F:\QianWebCore\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.dll
 F:\QianWebCore\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.pdb
 F:\QianWebCore\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.csproj.CoreCompileInputs.cache
+F:\QianWebCore\Qian.Models\obj\Debug\netcoreapp3.1\Qian.Models.csprojAssemblyReference.cache

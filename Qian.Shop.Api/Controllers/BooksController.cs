@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
+using Qian.Shop.Api.Utility;
 
 namespace Qian.Shop.Api.Controllers
 {
@@ -18,11 +19,12 @@ namespace Qian.Shop.Api.Controllers
         public BooksController(IBLL.IBooksService booksService,ILogger<BooksController> logger)
         {
             _ibooksService = booksService;
-            _logger = logger;
-            _logger.LogInformation("BooksController 被构造。。。。。");
+            _logger = logger;            
         }
 
         [HttpGet("GetBooks")]
+        //[TypeFilter(typeof(CustomActionFilterAttribute))]
+        [ServiceFilter(typeof(CustomActionFilterAttribute))]
         public async Task<IActionResult> GetBooks(int pageIndex, int pageSize, string bookName, string authorName,string bookType,int orderBy,bool isAsc)
         {            
             var model = await _ibooksService.GetBooks(pageIndex, pageSize,bookName, authorName, bookType,orderBy,isAsc);            

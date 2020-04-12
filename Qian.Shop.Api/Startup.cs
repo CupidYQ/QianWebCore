@@ -44,6 +44,10 @@ namespace Qian.Shop.Api
             {
                 options.Filters.Add(typeof(CustomExceptionFilterAttribute));//全局注册 全局生效
             });
+
+            //如果使用[ServiceFilter(typeof(CustomActionFilterAttribute))]这种特性标签 则需要在容器里注册服务
+            services.AddSingleton<CustomActionFilterAttribute>();
+
             services.AddDbContext<Core.QianContext>(options =>
             {
                 options.EnableSensitiveDataLogging(true);//可以在Logging信息中看到EFCore生成sql中时的敏感数据

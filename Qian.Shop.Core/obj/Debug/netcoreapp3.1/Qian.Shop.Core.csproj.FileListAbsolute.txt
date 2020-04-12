@@ -28,3 +28,4 @@ F:\QianWebCore\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.dll
 F:\QianWebCore\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.pdb
 F:\QianWebCore\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.csproj.CoreCompileInputs.cache
 F:\QianWebCore\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.genruntimeconfig.cache
+F:\QianWebCore\Qian.Shop.Core\obj\Debug\netcoreapp3.1\Qian.Shop.Core.csprojAssemblyReference.cache
