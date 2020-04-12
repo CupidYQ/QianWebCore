@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Qian.Shop.Api.Utility;
 
 namespace Qian.Shop.Api
 {
@@ -39,11 +40,16 @@ namespace Qian.Shop.Api
             #endregion
 
             services.AddControllers();
+            services.AddMvc(options =>
+            {
+                options.Filters.Add(typeof(CustomExceptionFilterAttribute));//全局注册 全局生效
+            });
             services.AddDbContext<Core.QianContext>(options =>
             {
                 options.EnableSensitiveDataLogging(true);//可以在Logging信息中看到EFCore生成sql中时的敏感数据
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultString"));                
             });
+            //services.AddTransient<CustomExceptionFilterAttribute>();
             BLL.DIBLLRegister bllRegister = new BLL.DIBLLRegister();
             bllRegister.DIRegister(services);
             //string strType = Configuration.GetSection("ConnectionString:DefaultString").Value;

@@ -31,3 +31,4 @@ F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.AssemblyInfo.cs
 F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.csproj.CopyComplete
 F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.dll
 F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.pdb
+F:\QianWebCore\DBHelper\obj\Debug\netcoreapp3.1\DBHelper.csproj.CoreCompileInputs.cache

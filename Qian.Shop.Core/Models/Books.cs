@@ -10,7 +10,7 @@ namespace Qian.Shop.Core.Models
         public string AuthorsName { get; set; }
         public string BookContent { get; set; }
         public string BookType { get; set; }
-        public bool BookState { get; set; }
+        public bool? BookState { get; set; }
         public decimal? MarketPrice { get; set; }
         public decimal? PromotionPrice { get; set; }
         public decimal? GreatPrice { get; set; }

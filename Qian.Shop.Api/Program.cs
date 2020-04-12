@@ -17,10 +17,16 @@ namespace Qian.Shop.Api
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder.UseStartup<Startup>();
-                });
+            Host.CreateDefaultBuilder(args)//创建默认builder-会完成各种配置
+            .ConfigureLogging(loggingBuilder => //配置Log4Net日志 支持IOC
+            {
+                loggingBuilder.AddFilter("System", LogLevel.Warning);//过滤掉命名空间
+                loggingBuilder.AddFilter("Microsoft", LogLevel.Warning);
+                loggingBuilder.AddLog4Net();
+            })
+            .ConfigureWebHostDefaults(webBuilder =>
+            {
+                webBuilder.UseStartup<Startup>();
+            });
     }
 }

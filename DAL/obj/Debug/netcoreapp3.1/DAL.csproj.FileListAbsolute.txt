@@ -55,3 +55,4 @@ F:\QianWebCore\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
 F:\QianWebCore\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
 F:\QianWebCore\DAL\obj\Debug\netcoreapp3.1\DAL.dll
 F:\QianWebCore\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\QianWebCore\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache

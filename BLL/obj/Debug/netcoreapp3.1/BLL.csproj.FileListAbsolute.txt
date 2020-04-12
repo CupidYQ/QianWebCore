@@ -67,3 +67,4 @@ F:\QianWebCore\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
 F:\QianWebCore\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
 F:\QianWebCore\BLL\obj\Debug\netcoreapp3.1\BLL.dll
 F:\QianWebCore\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+F:\QianWebCore\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache

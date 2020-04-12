@@ -37,3 +37,4 @@ F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.AssemblyInfo.cs
 F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.csproj.CopyComplete
 F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.dll
 F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.pdb
+F:\QianWebCore\IBLL\obj\Debug\netcoreapp3.1\IBLL.csproj.CoreCompileInputs.cache

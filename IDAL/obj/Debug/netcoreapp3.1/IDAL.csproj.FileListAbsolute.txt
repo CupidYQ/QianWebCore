@@ -37,3 +37,4 @@ F:\QianWebCore\IDAL\bin\Debug\netcoreapp3.1\Qian.Shop.Core.dll
 F:\QianWebCore\IDAL\bin\Debug\netcoreapp3.1\Qian.Models.pdb
 F:\QianWebCore\IDAL\bin\Debug\netcoreapp3.1\Qian.Shop.Core.pdb
 F:\QianWebCore\IDAL\obj\Debug\netcoreapp3.1\IDAL.csproj.CopyComplete
+F:\QianWebCore\IDAL\obj\Debug\netcoreapp3.1\IDAL.csproj.CoreCompileInputs.cache

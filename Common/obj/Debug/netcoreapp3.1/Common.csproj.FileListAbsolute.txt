@@ -28,3 +28,4 @@ F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
 F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
 F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.dll
 F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.pdb
+F:\QianWebCore\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
 namespace Qian.Shop.Api.Controllers
@@ -13,9 +14,12 @@ namespace Qian.Shop.Api.Controllers
     public class BooksController : ControllerBase
     {
         private readonly IBLL.IBooksService _ibooksService;
-        public BooksController(IBLL.IBooksService booksService)
+        private readonly ILogger<BooksController> _logger; 
+        public BooksController(IBLL.IBooksService booksService,ILogger<BooksController> logger)
         {
             _ibooksService = booksService;
+            _logger = logger;
+            _logger.LogInformation("BooksController 被构造。。。。。");
         }
 
         [HttpGet("GetBooks")]
@@ -34,7 +38,22 @@ namespace Qian.Shop.Api.Controllers
                 code = 0,
                 data = model
             };
-            return Ok(res);           
+            return Ok(res);               
+        }
+
+        [HttpGet("Test")]
+        public ActionResult Test()
+        {
+            int i = 1;
+            int k = 3;
+            int m = i + k;//业务逻辑
+            int l = m - m;
+            int j = m / l;//其实是要来个异常
+            var res = new
+            {
+                result = j
+            };
+            return Ok(res);
         }
     }
 }
