@@ -15,16 +15,15 @@ namespace Qian.Shop.Api.Controllers
     public class BooksController : ControllerBase
     {
         private readonly IBLL.IBooksService _ibooksService;
-        private readonly ILogger<BooksController> _logger; 
-        public BooksController(IBLL.IBooksService booksService,ILogger<BooksController> logger)
+        
+        public BooksController(IBLL.IBooksService booksService)
         {
-            _ibooksService = booksService;
-            _logger = logger;            
+            _ibooksService = booksService;                  
         }
 
         [HttpGet("GetBooks")]
-        //[TypeFilter(typeof(CustomActionFilterAttribute))]
-        [ServiceFilter(typeof(CustomActionFilterAttribute))]
+        //[TypeFilter(typeof(CustomActionFilterAttribute))] //不需要在IOC中注册服务
+        [ServiceFilter(typeof(CustomActionFilterAttribute))] //需要在IOC中注册服务
         public async Task<IActionResult> GetBooks(int pageIndex, int pageSize, string bookName, string authorName,string bookType,int orderBy,bool isAsc)
         {            
             var model = await _ibooksService.GetBooks(pageIndex, pageSize,bookName, authorName, bookType,orderBy,isAsc);            

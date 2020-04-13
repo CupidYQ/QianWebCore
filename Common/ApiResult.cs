@@ -10,7 +10,7 @@ namespace Common
         {
             return new
             {
-                code = 0,
+                code = 200,
                 msg,
                 data
             };
@@ -19,7 +19,7 @@ namespace Common
         {
             return new
             {
-                code = 0,
+                code = 200,
                 msg,
                 data,
                 total
@@ -30,7 +30,7 @@ namespace Common
         {
             return new
             {
-                code = 0,
+                code = 200,
                 msg                
             };
         }

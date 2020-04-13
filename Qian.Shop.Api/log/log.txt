@@ -5,3 +5,13 @@
 2020-04-12 21:12:17,429 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
 2020-04-12 21:12:17,442 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: F:\QianWebCore\Qian.Shop.Api
 2020-04-12 21:12:32,568 [13] ERROR Qian.Shop.Api.Utility.CustomExceptionFilterAttribute - /api/Books/Test Attempted to divide by zero.
+2020-04-13 16:07:23,479 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-04-13 16:07:23,543 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-04-13 16:07:23,552 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: F:\QianWebCore\Qian.Shop.Api
+2020-04-13 16:07:48,203 [19] WARN  Microsoft.EntityFrameworkCore.Model.Validation - Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data, this mode should only be enabled during development.
+2020-04-13 16:10:09,422 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-04-13 16:10:09,440 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-04-13 16:10:09,449 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: F:\QianWebCore\Qian.Shop.Api
+2020-04-13 16:10:21,652 [8] INFO  Qian.Shop.Api.Utility.CustomActionFilterAttribute - 2020/4/13 16:10:21 开始调用 GetBooks api： 参数为：{"pageIndex":1,"pageSize":1}
+2020-04-13 16:10:22,296 [4] WARN  Microsoft.EntityFrameworkCore.Model.Validation - Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data, this mode should only be enabled during development.
+2020-04-13 16:10:23,255 [4] INFO  Qian.Shop.Api.Utility.CustomActionFilterAttribute - 2020/4/13 16:10:23 完成调用 GetBooks api完成；执行结果：{"code":200,"msg":"succ","data":[{"BookId":1,"BookName":"《教父》三部曲","AuthorsName":"马里奥·普佐","BookContent":"《教父》内容简介：“为了正义，我们必须去求唐·柯里昂。”向唐?柯里昂求助的人，希望从不会落空。他说一不二，不许空头支票，他是黑手党的教父，他主宰着纽约的地下世界，他是弱者的守护神。你只需要拿出真诚的友谊，就能够得到他的庇护。唐的家族拒绝染指毒品生意，遭到其他黑手党报复。唐?柯里昂受到重创，但是苦难使他和儿子们的关系更加亲密，让家族变得更加强大。小儿子迈克尔?柯里昂在危机时刻谨记父亲的教诲。他选择了家族、荣誉和责任，他为兄弟复仇、为家族清理门户，成为家族的继承者，成为新的教父。","BookType":"小说","BookState":true,"MarketPrice":105.8000,"PromotionPrice":null,"GreatPrice":null,"SeckillPrice":null,"BookImg":"《教父》三步曲.jpg","IsHot":false,"Suit":null,"Stock":100,"AddTime":"2020-02-27T20:37:02.073"}],"total":1}

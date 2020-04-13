@@ -40,6 +40,7 @@ namespace Qian.Shop.Api
             #endregion
 
             services.AddControllers();
+            //对所有的方法都生效
             services.AddMvc(options =>
             {
                 options.Filters.Add(typeof(CustomExceptionFilterAttribute));//全局注册 全局生效
