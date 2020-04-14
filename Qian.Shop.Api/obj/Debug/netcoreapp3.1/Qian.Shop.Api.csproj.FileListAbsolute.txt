@@ -425,6 +425,3 @@ F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.genruntimecon
 F:\QianWebCore\Qian.Shop.Api\bin\Debug\netcoreapp3.1\log4net.dll
 F:\QianWebCore\Qian.Shop.Api\bin\Debug\netcoreapp3.1\log4net.Config
 F:\QianWebCore\Qian.Shop.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
-F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.csproj.CoreCompileInputs.cache
-F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.MvcApplicationPartsAssemblyInfo.cs
-F:\QianWebCore\Qian.Shop.Api\obj\Debug\netcoreapp3.1\Qian.Shop.Api.MvcApplicationPartsAssemblyInfo.cache
